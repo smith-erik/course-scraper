@@ -8,13 +8,12 @@ import json
 class AuthorSpider(scrapy.Spider):
     name = 'course'
 
-    # From    https://sac.epfl.ch/page-128071.html
+    # From https://sac.epfl.ch/page-128071.html
     # through https://sac.epfl.ch/page-128085.html
     start_urls = ['https://sac.epfl.ch/page-1280{}.html'.format(x)
                       for x in range(71, 86)]
 
     def parse(self, response):
-        # follow links to course pages
         for href in response.css('div.htmlBox div.relative a::attr("href")') \
                         .extract():
             if href.endswith('fr'):
