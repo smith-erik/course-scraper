@@ -1,4 +1,4 @@
-# Course page data scraper
+# Web Scraper for Course Pages
 Utilises [Scrapy](https://scrapy.org) to scrape data from all course pages found by using [this](https://sac.epfl.ch/English-Master-courses) page as the root of the tree.
 
 For each course, I save  
