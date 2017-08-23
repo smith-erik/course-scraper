@@ -5,7 +5,7 @@ import re
 import json
 
 
-class AuthorSpider(scrapy.Spider):
+class CourseSpider(scrapy.Spider):
     name = 'course'
 
     # From https://sac.epfl.ch/page-128071.html
@@ -62,4 +62,3 @@ class AuthorSpider(scrapy.Spider):
             print('Done.')
         else:
             sys.exit("'scraped_course_data.json' not found")
-
