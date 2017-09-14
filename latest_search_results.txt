@@ -1,0 +1,240 @@
+    BIOENG-430 - 2 - Introduction to cellular and molecular biotechnology
+        CH-405 - 2 - Methodology in instrumental chromatography
+        CH-406 - 2 - Analysis of ancient materials and their degradation
+        CH-421 - 2 - Catalysis for energy storage
+        CH-424 - 2 - Supramolecular chemistry
+        CH-443 - 2 - Photochemistry II
+       ChE-451 - 2 - Process development I
+        EE-420 - 2 - Analog circuits design I
+        EE-428 - 2 - Introduction to VLSI Design
+        EE-432 - 2 - Hardware systems modeling I
+        EE-434 - 2 - Hardware systems modeling
+        EE-456 - 2 - 
+        EE-520 - 2 - Advanced analog and RF integrated circuits design I
+        EE-530 - 2 - Test of VLSI systems
+        EE-532 - 2 - Integrated circuits technology
+        EE-535 - 2 - Nanoelectronics
+        EE-536 - 2 - Physical models for micro and nanosystems
+        EE-537 - 2 - Modeling of emerging electron devices
+        EE-555 - 2 - Systems and architectures for signal processing
+        EE-575 - 2 - Wave propagation along transmission lines
+       ENV-402 - 2 - Sanitary engineering in developing countries
+       FIN-411 - 2 - Accounting for finance
+       FIN-506 - 2 - Investing: a Guide to Doing the Right Thing
+       FIN-525 - 2 - Financial big data
+       MGT-408 - 2 - Technology policy and the energy transition
+       MGT-439 - 2 - Information technology and digital strategy
+       MGT-466 - 2 - Negotiation techniques
+       MGT-469 - 2 - Presentation skills
+     MICRO-432 - 2 - Microelectronics
+     MICRO-560 - 2 - BioMEMS
+       MSE-420 - 2 - Cementitious materials (advanced)
+       MSE-430 - 2 - Life cycle engineering of polymers
+       MSE-441 - 2 - Electrochemistry for materials technology
+       MSE-462 - 2 - Powder technology
+       MSE-465 - 2 - Thin film fabrication processes
+    MSE-470(a) - 2 - Seminar series on advances in materials (autumn)
+       MSE-471 - 2 - Biomaterials (pour MX)
+       MSE-477 - 2 - Advanced nanomaterials
+       MSE-479 - 2 - Introduction to nanomaterials
+       MSE-485 - 2 - Tribology
+       BIO-447 - 3 - Stem cell biology and technology
+    BIOENG-437 - 3 - Pharmaceutical biotechnology
+    BIOENG-445 - 3 - Biomedical optics
+        CH-422 - 3 - Catalyst design for synthesis
+        CH-423 - 3 - Inorganic reactivity
+        CH-432 - 3 - Structure and reactivity
+        CH-438 - 3 - Total synthesis of natural products
+        CH-444 - 3 - Electronic spectroscopy
+     CIVIL-402 - 3 - Geomechanics
+     CIVIL-429 - 3 - Reservoir mechanics for geo-energy and the environment
+     CIVIL-443 - 3 - Advanced composites in engineering structures
+     CIVIL-449 - 3 - Nonlinear analysis of structures
+     CIVIL-457 - 3 - Fundamentals of traffic operations and control
+     CIVIL-527 - 3 - Selected topics in mechanics of solids and structures
+       COM-414 - 3 - Satellite communications  systems and networks
+       ChE-402 - 3 - Advanced diffusional separation processes
+       ChE-403 - 3 - Chemical engineering of heterogenous reactions
+       ChE-411 - 3 - Principles and applications of systems biology
+        EE-466 - 3 - Energy storage in power systems: technologies, applications and future needs
+        EE-515 - 3 - Fundamentals of biosensors and electronic biochips
+        EE-517 - 3 - Bio-nano-chip design
+        EE-519 - 3 - Bioelectronics and implantable biomedical microelectronics
+        EE-539 - 3 - Electric filters
+        EE-540 - 3 - Optical communications
+        EE-548 - 3 - Audio engineering
+        EE-549 - 3 - Propagation of acoustic waves
+        EE-554 - 3 - Automatic speech processing
+       ENV-426 - 3 - Fluvial biogeosciences
+       ENV-501 - 3 - Material and energy flow analysis
+       ENV-540 - 3 - Imagery of territory
+        ME-409 - 3 - Energy conversion and renewable energy
+        ME-421 - 3 - System identification
+        ME-445 - 3 - Aerodynamics
+        ME-466 - 3 - Instability
+        ME-467 - 3 - Turbulence
+     MICRO-402 - 3 - Modeling and simulation of microsystems
+     MICRO-403 - 3 - Product design: managing projects and innovations
+     MICRO-420 - 3 - Selected topics in advanced optics
+     MICRO-431 - 3 - Materials and technology of microfabrication
+     MICRO-511 - 3 - Image processing I
+     MICRO-514 - 3 - Flexible bioelectronics
+     MICRO-523 - 3 - Optical detectors
+     MICRO-567 - 3 - Optical waves propagation
+       MSE-351 - 3 - Surface analysis
+       MSE-403 - 3 - Materials Science
+       MSE-437 - 3 - Polymer chemistry and macromolecular engineering
+       MSE-440 - 3 - Composites technology
+       MSE-450 - 3 - Electron microscopy: advanced methods
+      PHYS-332 - 3 - Computational physics III
+      PHYS-405 - 3 - Experimental methods in physics
+       BIO-105 - 4 - Cellular biology and biochemistry for engineers
+       BIO-449 - 4 - Understanding Statistics and Experimental Design
+       BIO-450 - 4 - Molecular endocrinology
+       BIO-463 - 4 - Genomics and bioinformatics
+    BIOENG-486 - 4 - Sensorimotor neuroprosthetics
+        CH-353 - 4 - Introduction to electronic structure methods
+        CH-451 - 4 - Applied molecular quantum chemistry
+        CH-452 - 4 - Computational methods in molecular quantum mechanics
+       COM-415 - 4 - Audio signal processing and virtual acoustics
+       COM-502 - 4 - Dynamical system theory for engineers
+       COM-516 - 4 - Markov chains and algorithmic applications
+        CS-411 - 4 - Digital education &amp; learning analytics
+        CS-434 - 4 - Unsupervised and reinforcement learning in neural networks
+        CS-435 - 4 - Analytic algorithms
+        CS-451 - 4 - Distributed algorithms
+        CS-452 - 4 - Foundations of software
+        CS-453 - 4 - Concurrent algorithms
+        CS-473 - 4 - Embedded systems
+        EE-425 - 4 - HF and VHF circuits and techniques I
+        EE-429 - 4 - Fundamentals of VLSI design
+        EE-442 - 4 - Wireless receivers: algorithms and architectures
+        EE-445 - 4 - Microwaves
+        EE-465 - 4 - Industrial electronics I
+        EE-477 - 4 - Multivariable control and coordination systems
+        EE-516 - 4 - Data analysis and model classification
+        EE-556 - 4 - Mathematics of data: from theory to computation
+        EE-558 - 4 - A Network Tour of Data Science
+       ENV-406 - 4 - Biomineralization: from nature to application
+       ENV-422 - 4 - Concepts in ecological engineering
+       ENV-500 - 4 - Solid waste engineering
+       ENV-525 - 4 - Physics and hydrology of snow
+       ENV-548 - 4 - Sensor orientation
+       FIN-402 - 4 - Quantitative methods in finance
+       FIN-408 - 4 - Stochastic calculus I
+       FIN-410 - 4 - Real options and financial structuring
+       FIN-503 - 4 - Advanced derivatives
+       FIN-504 - 4 - Credit risk
+       FIN-521 - 4 - Advanced topics in financial econometrics
+       FIN-522 - 4 - Venture capital
+       FIN-523 - 4 - Global business environment
+      MATH-400 - 4 - Advanced analysis I
+      MATH-456 - 4 - Numerical Analysis and Computational Mathematics
+      MATH-458 - 4 - Programming concepts in scientific computing
+        ME-403 - 4 - Applied mechanical design
+        ME-410 - 4 - Mechanical product design and development
+        ME-453 - 4 - Hydraulic turbomachines
+        ME-551 - 4 - Engines and fuel cells
+       MGT-400 - 4 - Corporate strategy
+       MGT-401 - 4 - Strategic marketing &amp; technology commercialization
+       MGT-402 - 4 - B2B - high-tech marketing
+    MGT-413(a) - 4 - Entrepreneurship &amp; new venture strategy (a)
+       MGT-414 - 4 - Technology &amp; innovation strategy
+       MGT-429 - 4 - Business information systems
+       MGT-433 - 4 - Environmental policy
+       MGT-454 - 4 - Principles of microeconomics
+       MGT-481 - 4 - Financial &amp; managerial accounting
+       MGT-482 - 4 - Principles of finance
+       MGT-484 - 4 - Applied probability &amp; stochastic processes
+       MGT-500 - 4 - Early detection of innovation potential
+       MGT-517 - 4 - Entrepreneurship laboratory (e-lab)
+       MGT-528 - 4 - Operations: economics &amp; strategy
+     MICRO-405 - 4 - Systems engineering
+     MICRO-422 - 4 - Lasers: theory and modern applications
+     MICRO-452 - 4 - Mobile robots
+     MICRO-455 - 4 - Applied machine learning
+       MSE-422 - 4 - Advanced metallurgy
+       MSE-423 - 4 - Fundamentals of solid-state materials
+       MSE-424 - 4 - Fracture of materials
+      PHYS-302 - 4 - Biophysics II
+      PHYS-307 - 4 - Physics of materials
+      PHYS-401 - 4 - Astrophysics III : Stellar and galactic dynamics
+      PHYS-403 - 4 - Computer simulation of physical systems I
+      PHYS-407 - 4 - Frontiers in nanosciences
+      PHYS-411 - 4 - Physics of atoms, nuclei and elementary particles
+      PHYS-423 - 4 - Plasma physics II
+      PHYS-425 - 4 - Quantum physics III
+      PHYS-427 - 4 - Relativity and cosmology I
+      PHYS-431 - 4 - Relativistic quantum fields I
+      PHYS-433 - 4 - Semiconductor physics and fundamentals of electronic devices
+      PHYS-435 - 4 - Statistical physics III
+      PHYS-441 - 4 - Statistical physics of biomacromolecules
+      PHYS-443 - 4 - Neutronics
+      PHYS-445 - 4 - Nuclear fusion and plasma physics
+      PHYS-447 - 4 - Reactor Technology
+      PHYS-448 - 4 - Introduction to particle accelerators
+      PHYS-449 - 4 - Optics III
+      PHYS-450 - 4 - Radiation protection &amp; radiation applications
+      PHYS-453 - 4 - Quantum electrodynamics and quantum optics
+      PHYS-455 - 4 - Introduction to medical radiation physics
+       BIO-467 - 5 - Scientific literature analysis in Bioengineering
+       BIO-468 - 5 - Scientific literature analysis in Computational molecular biology
+       BIO-469 - 5 - Scientific project design in regenerative medicine and diagnostics
+       BIO-471 - 5 - Cancer Biology I
+       BIO-479 - 5 - Immunology
+       BIO-480 - 5 - Neurosciences I : molecular neuroscience and neurodegeneration
+       BIO-482 - 5 - Neurosciences II : cellular mechanisms of brain function
+       BIO-487 - 5 - Scientific project design in translational neurosciences
+       BIO-488 - 5 - Scientific project design in translational oncology
+       BIO-489 - 5 - Scientific literature analysis in molecular and cancer biology
+       BIO-493 - 5 - Scientific project design in integrative neurosciences
+       BIO-494 - 5 - Scientific project design in drug discovery
+       COM-407 - 5 - TCP/IP networking
+       COM-511 - 5 - Software-defined radio: a hands-on course
+        CS-446 - 5 - Digital 3D Geometry Processing
+       ENV-405 - 5 - Water and wastewater treatment
+       ENV-424 - 5 - Water resources engineering
+       ENV-445 - 5 - Geomonitoring
+      MATH-341 - 5 - Linear models
+      MATH-350 - 5 - Introduction to the finite elements method
+      MATH-407 - 5 - Elliptic PDE&apos;s
+      MATH-408 - 5 - Advanced regression
+      MATH-409 - 5 - Algebraic curves and cryptography
+      MATH-423 - 5 - Differential geometry of framed curves
+      MATH-432 - 5 - Probability theory
+      MATH-434 - 5 - Lattice models
+      MATH-438 - 5 - Commutative algebra
+      MATH-442 - 5 - Statistical theory
+      MATH-449 - 5 - Biostatistics
+      MATH-451 - 5 - Numerical approximation of PDE&apos;s I
+      MATH-460 - 5 - Combinatorial optimization
+      MATH-461 - 5 - Convexity
+      MATH-463 - 5 - Mathematical modelling of behavior
+      MATH-465 - 5 - Packing and covering
+      MATH-472 - 5 - Computational finance
+      MATH-474 - 5 - Statistics for genomic data analysis
+      MATH-483 - 5 - Gödel and recursivity
+        ME-419 - 5 - Production management
+        ME-430 - 5 - Mechanics of composites
+        ME-446 - 5 - Two-phase flows and heat transfer
+        ME-451 - 5 - Advanced energetics
+        ME-474 - 5 - Numerical flow simulation
+        ME-482 - 5 - Biomechanics of the musculoskeletal system
+       MGT-409 - 5 - D. Thinking: real problems, human-focused solutions
+       COM-514 - 6 - Mathematical foundations of signal processing
+        CS-250 - 6 - Algorithms
+        CS-305 - 6 - Software engineering
+        CS-401 - 6 - Applied data analysis
+        CS-430 - 6 - Intelligent agents
+        CS-472 - 6 - Design technologies for integrated systems
+        EE-512 - 6 - Biomedical signal processing
+        EE-550 - 6 - Image and video processing
+       FIN-401 - 6 - Introduction to finance (IF master and minor only)
+       FIN-403 - 6 - Econometrics
+       FIN-406 - 6 - Macrofinance
+       FIN-505 - 6 - Fixed income analysis
+       COM-401 - 7 - Cryptography and security
+       COM-404 - 7 - Information theory and coding
+       COM-510 - 7 - Advanced digital communications
+        CS-433 - 7 - Pattern classification and machine learning
+        CS-522 - 7 - Principles of computer systems

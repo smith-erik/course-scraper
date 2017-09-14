@@ -6,14 +6,17 @@ import argparse
 
 def main():
     parser = argparse.ArgumentParser(description='Find courses in scraped '
-                                                 'data.')
+                                                 'data.',
+                                     epilog='Note that only fall courses '
+                                            'are shown and that results are '
+                                            'sorted first by credits and then '
+                                            'by code.')
     parser.add_argument('course_data_path', help='JSON file with course data')
-    parser.add_argument('-fc', '--filter-by-credits',
-                        dest='credits_list', default=None, nargs='+',
+    parser.add_argument('-f', dest='credits_list', default=None, nargs='+',
                         help='only show courses with listed credits')
+    parser.add_argument('-p', default=False, action='store_true',
+                        dest='print_to_file', help='print output to file')
     args = parser.parse_args()
-    # print(args)
-    # sys.exit(0)
 
     if not os.path.isfile(args.course_data_path):
         print("File '{}' not found.".format(args.course_data_path))
@@ -29,23 +32,29 @@ def main():
     else:
         course_list = [entry for entry in data
                        if entry['period'].lower() == 'fall']
-    print_courses(course_list)
+    
+    if args.print_to_file == False:
+        print("dpadpowka")
+        print_courses(course_list)
+    else:
+        outfile = open('latest_search_results.txt', 'w+')
+        print_courses(course_list, stream=outfile)
+        outfile.close()
     sys.exit(0)
 
 
-def print_courses(item_list):
-    item_list = sorted(item_list, key=lambda x: x['code'])
+def print_courses(item_list, stream=None):
+    item_list = sorted(item_list, key=lambda x: (x['credits'], x['code']))
     if len(item_list) != 0:
         for item in item_list:
-            print_course(item)
-            # print()
+            print_course(item, stream)
     else:
         print("List has no items.")
 
 
-def print_course(item):
-    print('{} - {}\n{} - {}'.format(item['code'], item['name'],
-                                    item['credits'], item['period']))
+def print_course(item, stream=None):
+    print('{:>14} - {:<2}- {}'.format(item['code'], item['credits'],
+                                   item['name']), file=stream)
 
 
 if __name__ == '__main__':

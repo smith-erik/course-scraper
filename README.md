@@ -13,3 +13,6 @@ For each course, the following information is saved:
  * Period
 
 Scraped course data is saved in `scraped_course_data.json`.
+
+Use the script `find_courses.py` to sort and explore the scraped data.  
+Run with argument `-h` or `--help` to show usage.
